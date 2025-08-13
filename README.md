@@ -2,7 +2,7 @@
 
 A responsive webpage containg details about cocktails using React (v19) , Tailwind (v4) and amazing GSAP animations.
 
-![Demo]('cocktail.png')
+![Demo]('./gicocktail.png')
 
 ## ⚙️ Features
 

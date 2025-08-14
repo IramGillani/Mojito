@@ -6,4 +6,4 @@ A responsive webpage containg details about cocktails using React (v19) , Tailwi
 
 ## ⚙️ Features
 
-This webpage gives informaion about best cocktails their origin , price and additional info using amazing GSAP animations on scroll.
+This webpage gives informaion about best cocktails, their origin , price and additional info using cool GSAP animations on scroll.
